@@ -6,6 +6,9 @@
 
 📄 [Relatório final - Software para Comptação Ubíqua](https://github.com/karllaloane/PadraoArqui-SCU/blob/main/SCU_Relatorio_final.pdf)
 
+📱 [Baixe aqui o APK para instalação no Android](https://drive.google.com/file/d/1uK5CldALRnEKQJDRb8PIeH_W0GUgMG3S/view?usp=sharing)
+_(Verifique com os integrantes do projeto sobre a disponibilidade do servidor)._
+
 ### 📄 [Documento de Arquitetura do Sistema](https://github.com/karllaloane/PadraoArqui-SCU/blob/main/Documento_arquitetura%20-%20Sistema%20de%20Coleta%20de%20Res%C3%ADduos%20Inteligente.pdf)
 
 ## Apresentação do domínio e arquitetura inicial do sistema
@@ -23,6 +26,6 @@ A apresentação do domínio e arquitetura do projeto pode ser acessada [clicand
 
 📂 Repositório backend do projeto: [sicoin-backend](https://github.com/JohnTFM/sicoin-backend)
 
-📂 Repositório do aplicativo mobile: [aqui](https://github.com/karllaloane/scu-coletaplus)
+📂 Repositório do aplicativo mobile: [scu-coletaplus](https://github.com/karllaloane/scu-coletaplus)
 
 📂 Repositório do portal web do projeto, para relatórios e dashboard: [sicoin-frontend](https://github.com/JvRosa/sicoin-frontend)
