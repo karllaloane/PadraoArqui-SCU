@@ -26,6 +26,6 @@ A apresentação do domínio e arquitetura do projeto pode ser acessada [clicand
 
 📂 Repositório backend do projeto: [sicoin-backend](https://github.com/JohnTFM/sicoin-backend)
 
-📂 Repositório do aplicativo mobile: [aqui](https://github.com/karllaloane/scu-coletaplus)
+📂 Repositório do aplicativo mobile: [scu-coletaplus](https://github.com/karllaloane/scu-coletaplus)
 
 📂 Repositório do portal web do projeto, para relatórios e dashboard: [sicoin-frontend](https://github.com/JvRosa/sicoin-frontend)
